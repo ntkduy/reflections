@@ -1,1 +1,14 @@
-Tang Kha Duy NGUYEN
+01 Initialising a Repository
+	1/ mkdir "directory_name"
+	2/ "create files"
+	3/ git init
+	
+
+	
+02 Comparison
+	1/ compare between 02 commits (older version first): git diff commit1 commit2 
+	2/ compare between 01 commit and its parent: git show commit1
+	3/ compare working directory & staging area: git diff --staged
+	
+02 Mounting version
+	1/ git checkout "branch_name"
